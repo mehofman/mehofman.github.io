@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-I'm a health informatics expert at Boston Medical Center.
+I'm a health informaticsexpert at Boston Medical Center.
 
-### Contact mes
+### Contact me
 
 [email@domain.com](mailto:email@domain.com)
