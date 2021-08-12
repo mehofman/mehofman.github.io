@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About this blog
 permalink: /about/
 ---
 
@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a health informatics expert at Boston Medical Center.
 
-### Contact me
+### Contact mes
 
 [email@domain.com](mailto:email@domain.com)
